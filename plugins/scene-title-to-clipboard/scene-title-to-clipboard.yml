@@ -1,0 +1,8 @@
+name: Scene Title To Clipboard
+description: Convert the scene title on detail view pages into clickable clipboard links.
+version: 1.0
+ui:
+  css:
+  - scene-title-to-clipboard.css
+  javascript:
+  - scene-title-to-clipboard.js
